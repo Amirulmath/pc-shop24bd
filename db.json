@@ -1,0 +1,580 @@
+{
+  "pcElements": [
+    {
+      "id": "1",
+      "product_name": "Asus TUF Gaming B550M-Plus Micro ATX",
+      "category": "Motherboard",
+      "status": "Out of stock",
+      "price": "18000",
+      "description": "TUF Gaming B550M-Plus distills essential elements of the latest AMD platform and combines them with game-ready features and proven durability. Engineered with military-grade components, an upgraded power solution, and a comprehensive set of cooling options.",
+      "features": [
+        "Model: Asus TUF Gaming B550M-Plus",
+        "AMD Ryzen 5000/4000G Series & 3rd Gen",
+        "Made for online gaming",
+        "Comprehensive cooling",
+        "Enhanced power solution"
+      ],
+      "individual_rating": "5",
+      "rating": "5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/3SQd8kH"
+    },
+    {
+      "id": "2",
+      "product_name": "Intel 13th Gen Raptor Lake Core i9",
+      "category": "Processor",
+      "status": "In Stock",
+      "price": "60000",
+      "description": "",
+      "features": [
+        "Type. - Core i9",
+        "Generation - 13th",
+        "Base Frequency - 2.00GHz",
+        "Turbo Frequency Max. - 5.60GHz",
+        "Core - 24",
+        "CPU Cache - 36MB"
+      ],
+      "individual_rating": "4.5",
+      "rating": "4",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/q0SgHGh"
+    },
+    {
+      "id": "3",
+      "product_name": "SAMSUNG C24F390FHW Series Curved 24-Inch",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": "16500",
+      "description": "1800R curvature of the screen provides a truly immersive viewing experience. A stylish design featuring a glossy black body and metallic silver finish and sleek curves. AMD FreeSync minimizes input latency and dramatically reduces _img tearing and stutter during gaming.",
+      "features": [
+        "Model: SAMSUNG C24F390FHW",
+        "Resolution: FHD (1920 x 1080)",
+        "Display: VA, 60Hz, 4 ms",
+        "Ports: HDMI, D-Sub, 1 EA",
+        "Features: Free Sync, Flicker Free"
+      ],
+      "individual_rating": "5",
+      "rating": "5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/121qdfc"
+    },
+    {
+      "id": "4",
+      "product_name": "Corsair VENGEANCE RGB 32GB (2x16GB) DDR5",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": "18000",
+      "description": "The Corsair VENGEANCE RGB C36 RAM Kit, with a capacity of 32GB (2x16GB) DDR5 operating at 6000MHz, is a high-performance memory kit tailored for AMD motherboards. It provides abundant memory for resource-intensive tasks and applications. Leveraging DDR5.",
+      "features": [
+        "MPN: CMH32GX5M2D6000Z36K",
+        "Model: VENGEANCE RGB",
+        "Capacity: 32GB",
+        "Frequency: DDR5 6000MHz",
+        "Form Factor: 288-Pin",
+        "Voltage & Cas Latency: 1.25V/C36"
+      ],
+      "individual_rating": "5",
+      "rating": "5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/JyWFNg3"
+    },
+    {
+      "id": "5",
+      "product_name": "Corsair CV650 650Watt 80 Plus Bronze",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": "5000",
+      "description": "Corsair CV650 650Watt 80 Plus Bronze Certified PSU is efficiency guaranteed to continuously deliver full wattage to your system. This CV series PSU is 80 PLUS Bronze certified, providing up to 88% efficiency for less heat and lower energy costs and also it deliver.",
+      "features": [
+        "Model: CV650 80 Plus Bronze Certified",
+        "80 PLUS Bronze certified",
+        "up to 88% efficiency, Compact design",
+        "Continuous, Reliable Output",
+        "Low-noise Operation, Stealth Mode"
+      ],
+      "individual_rating": "4.3",
+      "rating": "4.2",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/4mB4pLK"
+    },
+    {
+      "id": "6",
+      "product_name": "Samsung 970 EVO Plus 1TB NVMe M.2 SSD",
+      "category": "Storage Device",
+      "status": "Out of stock",
+      "price": "8000",
+      "description": "Samsung 970 EVO Plus 1TB NVMe M.2 SSD delivers breakthrough speeds, best-in-class reliability,. The latest V-NAND, new Phoenix controller, and Intelligent Turbo Write technology enhance high-end gaming and 4K & 3D graphic editing. 970 EVO transforms high-end.",
+      "features": [
+        "Model: 970 EVO Plus 1TB",
+        "Capacity: 1TB",
+        "Form Factor: M.2 (2280)",
+        "Write Speed: 3,300 MB/s",
+        "Interface: PCIe Gen 3.0 x4, NVMe 1"
+      ],
+      "individual_rating": "4.8",
+      "rating": "4.6",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/LJP3pHt"
+    },
+    {
+      "id": "7",
+      "product_name": "MSI Radeon RX 6600 MECH 2X 8G GDDR6 Graphics Card",
+      "category": "Graphics Card",
+      "status": "Out of stock",
+      "price": "19600",
+      "description": "The MSI Radeon RX 6600 MECH 2X 8G Graphics Card features the breakthrough AMD RDNA 2 architecture. Engineered to deliver an incredible 1080p gaming experience, the AMD Radeon RX 6600 Series powers the next generation of gaming with vivid visuals and elevated experiences.",
+      "features": [
+        "Model: Radeon RX 6600 MECH 2X 8G",
+        "Boost Clock: Up to 2491 MHz",
+        "Memory Speed: 14 Gbps",
+        "Dual Fan Thermal Design",
+        "Afterburner Overclocking Utility"
+      ],
+      "individual_rating": "4.8",
+      "rating": "4.5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/c3Bw440"
+    },
+    {
+      "id": "8",
+      "product_name": "AMD Ryzen 7 3700X Processor",
+      "category": "Processor",
+      "status": "Out of stock",
+      "price": "",
+      "description": "The AMD Ryzen 7 3700X processor is built in True machine intelligence featuring 8 processor cores, 16 threads, and an astonishingly efficient 65W TDP. Every Ryzen 7 processor is bundled with a color-controlled illuminated cooler, which is effective for PCs run, sound, and look.",
+      "features": [
+        "Model: Ryzen 7 3700X",
+        "Speed: 3.6GHz up to 4.4GHz",
+        "Cache: L2: 4MB, L3: 32MB",
+        "ores-8 & Threads-16",
+        "Memory Speed: 3200MHz"
+      ],
+      "individual_rating": "5",
+      "rating": "5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/9ZK7Srg"
+    },
+    {
+      "id": "9",
+      "product_name": "MSI PRO X670-P WIFI DDR5 AMD AM5 ATX",
+      "category": "Motherboard",
+      "status": "In Stock | Out of stock",
+      "price": "42000",
+      "description": "The MSI PRO X670-P WIFI Motherboard supports AMD's Ryzen 7000-series processors with up to 16 Zen 4 cores as well as dual-channel DDR5 memory, with a Maximum Memory Capacity of up to 128GB. It features a 14+2+1 Duet Rail Power System, dual 8-pin CPU power connectors, Core Boost, and Memory Boost.",
+      "features": [
+        "Model: PRO X670-P WIFI",
+        "Supported CPU: Ryzen 7000",
+        "Supported RAM: 4x DDR5, Max 128GB",
+        "Graphics Output: 1x HDMI",
+        "Features: 2.5G LAN with Wi-Fi"
+      ],
+      "individual_rating": "4.5",
+      "rating": "4.5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/zPrcJRm"
+    },
+    {
+      "id": "10",
+      "product_name": "PC Power Ice Cube Desktop Gaming Casing",
+      "category": "Casing",
+      "status": "In Stock",
+      "price": "5200",
+      "description": "The PC Power Ice Cube Desktop Gaming Casing has a modern look that complements any gaming setup. The tempered glass panels on the front and left side not only showcase your powerful components but also provide a glimpse into the impressive interior.",
+      "features": [
+        "Model: Ice Cube",
+        "Motherboard Support: ATX, M-ATX",
+        "Front Glass, Left Glass",
+        "5x 120mm Fan Pre-installed",
+        "350 Watt PSU Included"
+      ],
+      "individual_rating": "5",
+      "rating": "5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/2dkLjrj"
+    },
+    {
+      "id": "11",
+      "product_name": "HP M24f 24'' FHD IPS Monitor",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": "20500",
+      "description": "HP M24f 24 FHD IPS Monitor feels as good as it looks, packing IPS technology for 178 degrees ultra-wide viewing angles, 99% sRGB color gamut for color accuracy, and Freesync to keep your eyes up to speed with your imagination. Increase viewing comfort with Eyesafe.",
+      "features": [
+        "MPN: 2D9K0AA",
+        "Model: M24f",
+        "Resolution: FHD (1080p)",
+        "Display: IPS, 75Hz, 5ms",
+        "Features: Free Sync, Low Blue Light"
+      ],
+      "individual_rating": "5",
+      "rating": "5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/2FP1Gv8"
+    },
+    {
+      "id": "12",
+      "product_name": "MSI MPG A850GF 850W 80 Plus Gold",
+      "category": "Power Supply",
+      "status": "Out of stock",
+      "price": "12500",
+      "description": "The MSI MPG A850GF 850W Power Supply is a powerhouse able to support even the latest graphics card and provide an abundant source of dedicated power. The power supply is rated with an 80 Plus Gold rating that has a power supply efficiency of above 90%.",
+      "features": [
+        "Model: MPG A850GF 850W",
+        "Supports the NVIDIA GeForce RTX 30 Series GPUs",
+        "Fully modular cable design",
+        "Japanese 105oC capacitor",
+        "80 Plus Gold Certification"
+      ],
+      "individual_rating": "5",
+      "rating": "5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/MRtMBQY"
+    },
+    {
+      "id": "13",
+      "product_name": "Team Elite Plus Red 16GB 3200MHz DDR4",
+      "category": "RAM",
+      "status": "Out of stock",
+      "price": "4000",
+      "description": "The Team Elite Plus Red 16GB 3200MHz DDR4 RAM features a data transfer bandwidth of 25,600 MB/s. IKt comes with an operating voltage of only 1.2V, which saves a lot of power consumption. It reduces the heat generated by the product itself and also maintains.",
+      "features": [
+        "MPN: TPRD416G3200HC2201",
+        "Model: Elite Plus Red",
+        "Capacity: 16GB DDR4",
+        "Frequency: 3200MHz",
+        "Speed: 25,600 MB/s (PC4 25600)"
+      ],
+      "individual_rating": "4.3",
+      "rating": "4.2",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/qjYpmz8"
+    },
+    {
+      "id": "14",
+      "product_name": "Transcend 225S 2TB 2.5 Inch SATA III SSD",
+      "category": "Storage Device",
+      "status": "In Stock",
+      "price": "15000",
+      "description": "",
+      "features": [
+        "MPN: TS2TSSD225S",
+        "Model: 225S",
+        "Capacity: 2TB",
+        "Interface: SATA III 6Gb/s",
+        "Flash Type: top-notch 3D NAND flash",
+        "Sequential Read/Write: up to 560/500 MB/s"
+      ],
+      "individual_rating": "4.2",
+      "rating": "4",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/gr5z4PR"
+    },
+    {
+      "id": "15",
+      "product_name": "ASUS TUF Gaming GeForce GTX 1630 4GB GDDR6 Graphics Card",
+      "category": "Graphics Card",
+      "status": "In Stock",
+      "price": "20000",
+      "description": "The ASUS TUF Gaming GeForce GTX 1630 4GB Graphics Card is built with the breakthrough graphics performance of the award-winning NVIDIA Turing architecture to supercharge your favorite games. It features ultra-fast GDDR6 with over 50% more memory bandwidth for high-speed gaming.",
+      "features": [
+        "MPN: TUF-GTX1630-4G-GAMING",
+        "Model: TUF Gaming GeForce GTX 1630 4GB",
+        "OC mode: 1815MHz (Boost Clock)",
+        "Gaming mode: 1785MHz(Boost Clock)/ 1740MHz(Base Clock)",
+        "Memory Speed: 12 Gbps"
+      ],
+      "individual_rating": "5",
+      "rating": "5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/WWd9rr5"
+    },
+    {
+      "id": "16",
+      "product_name": "GIGABYTE B560M DS3H AC Intel 10th and 11th Gen",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": "14000",
+      "description": "",
+      "features": [
+        "Model: B560M DS3H AC",
+        "Supports 11th and 10th Gen",
+        "Dual Ultra-Fast NVMe PCIe 4.0/3.0 x4 M.2",
+        "Dual-Channel DDR4, 4 DIMMs",
+        "Dual-Band 802.11ac Wireless & BT 4.2"
+      ],
+      "individual_rating": "4",
+      "rating": "4",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/vH55bKw"
+    },
+    {
+      "id": "17",
+      "product_name": "LG 22MP400-B 22-inch Full HD Monitor",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": "10500",
+      "description": "The LG 22MP400-B comes with AMD FreeSync Enjoy gaming, movies, shows, and videos in Full High Definition. LG 22MP400-B FHD monitors deliver vibrant color performance with a VA display. This monitor has a viewing Angle of 178˚(R/L), and 178˚(U/D).",
+      "features": [
+        "Model: 22MP400-B",
+        "Resolution: FHD (1920 x 1080)",
+        "Display: VA, 75Hz, 5ms (GtG at Faster)",
+        "Ports: 1x HDMI, 1x D-Sub",
+        "Features: AMD Free Sync, Smart Energy Saving"
+      ],
+      "individual_rating": "4.3",
+      "rating": "4.2",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/VD19Fh9"
+    },
+    {
+      "id": "18",
+      "product_name": "Montech AIR X ARGB Diamonded Gaming Case",
+      "category": "Casing",
+      "status": "Out of stock",
+      "price": "6200",
+      "description": "The Gaming case is designed with a Beautiful Metallic Diamond Mesh Front that creates a unique visual and enhances airflow. Here, used Fine Mesh dust screens for the front Diamond Mesh, and magnetic top and bottom vent screens provide excellent dust resistance.",
+      "features": [
+        "Model: AIR X",
+        "Pre-installed ARGB Fan: 200mm",
+        "Fine Metal Diamonded Mesh Front",
+        "Dustproof fine Mesh dust screens",
+        "Double USB 3.0 + Single USB 2.0"
+      ],
+      "individual_rating": "4.5",
+      "rating": "4.3",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/KbC78Cg"
+    },
+    {
+      "id": "19",
+      "product_name": "AMD Ryzen 9 3900X Processor",
+      "category": "Processor",
+      "status": "In Stock",
+      "price": "42000",
+      "description": "",
+      "features": [
+        "Model: Ryzen 9 3900X",
+        "Speed: 3.8GHz up to 4.6GHz",
+        "Cache: L2: 6MB, L3: 64MB",
+        "Cores-12 & Threads-24",
+        "Memory Speed: 3200MHz"
+      ],
+      "individual_rating": "4.5",
+      "rating": "4.5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/M8w1HD0"
+    },
+    {
+      "id": "20",
+      "product_name": "GIGABYTE UD1000GM 1000W Ultra Durable 80+ Gold",
+      "category": "Power Supply",
+      "status": "In Stock",
+      "price": "16000",
+      "description": "The GIGABYTE UD1000GM 1000W Power supply features a wide range of high-quality materials and designs. Ultra Durable has high-quality Japanese primary capacitors, an improved thermal solution, a 120mm smart hydraulic bearing (HYB) fan, and six circuit safety designs.",
+      "features": [
+        "MPN: GP-UD1000GM/PSU",
+        "Model: UD1000GM 1000W",
+        "Modular: Fully Modular",
+        "Power (W): 1000W",
+        "Certifications: 80 PLUS Gold"
+      ],
+      "individual_rating": "4.1",
+      "rating": "4",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/n8r6DXP"
+    },
+    {
+      "id": "21",
+      "product_name": "Toshiba P300 2TB 3.5-Inch SATA 7200RPM HDD",
+      "category": "Storage Device",
+      "status": "In Stock",
+      "price": "5500",
+      "description": "Toshiba P300 Desktop HDD comes with 2TB 3.5-Inch SATA 7200RPM capacity. This HDD is featured with 3.5 Inch Form Factor, SATA 6Gb/s Interface, and 128MB Buffer. The P300 HDD, available in the 2TB to 6TB models, improves positional accuracy.",
+      "features": [
+        "MPN: HDWD320UZSVA",
+        "Model: P300",
+        "Capacity: 2TB 7200RPM",
+        "Interface: SATA 6Gb/s",
+        "Buffer: 128MB",
+        "Form Factor: 3.5 Inch"
+      ],
+      "individual_rating": "5",
+      "rating": "5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/m5kSbBG"
+    },
+    {
+      "id": "22",
+      "product_name": "G.Skill RIPJAWS-V 8GB DDR4 3200MHz",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": "3000",
+      "description": "As the latest addition to the classic Ripjaws family, Ripjaws V series is the newest DDR4 memory designed for maximum compatibility and cutting-edge performance with the latest IntelÂ® Coreâ„¢ processors. Built with the finest components, tested under the most.",
+      "features": [
+        "Model: G Skill RIPJAWS-V 8GB",
+        "Capacity 8GB",
+        "Speed: 3200MHz",
+        "Tested Latency: 16-18-18-38",
+        "Voltage: 1.35V"
+      ],
+      "individual_rating": "3.5",
+      "rating": "3.5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/0X8pntn"
+    },
+    {
+      "id": "23",
+      "product_name": "MSI PRO B660M-P DDR4 12th Gen",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": "15600",
+      "description": "MSI PRO B660M-P DDR4 Featuring stable functionality and high-quality assembly, PRO series motherboards provide not only optimized professional workflows but also less troubleshooting and longevity. This motherboard Supports 12th Gen Intel Core, Pentium Gold.",
+      "features": [
+        "Model: PRO B660M-P",
+        "Supports: 12th Gen Intel Core",
+        "RAM Support: DDR4, up to 4600+(OC) MHz",
+        "Graphics Output: 1x HDMI port, 1x DisplayPort, 1x VGA",
+        "Features: PCIe 4.0, Lightning Gen4 x4 M.2"
+      ],
+      "individual_rating": "4.2",
+      "rating": "4",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/pxSmKgC"
+    },
+    {
+      "id": "24",
+      "product_name": "Value-Top VT-B701-P Mini Tower Micro ATX Gaming Casing",
+      "category": "Casing",
+      "status": "In Stock",
+      "price": "3000",
+      "description": "The Value-Top VT-B701-P Micro ATX Gaming Case is a white mini tower gaming case for those who prefer a simple design. This casing is an excellent combination of visual appeal, portability, and performance. Because this is a mini tower case, it only accepts Micro-ATX motherboards.",
+      "features": [
+        "Model: VT-B701-P",
+        "Motherboard Support: Micro ATX",
+        "3 x 12CM 3-Color Static Fan",
+        "1 x USB 3.0 & 2 x USB 2.0, HD Audio",
+        "Left Side Panel Made of Tempered Glass"
+      ],
+      "individual_rating": "3.4",
+      "rating": "3",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/DQxMrKJ"
+    },
+    {
+      "id": "25",
+      "product_name": "Colorful Geforce RTX 3060 NB Duo 12G V2 LV GDDR6 Graphic Card",
+      "category": "Graphics Card",
+      "status": "In Stock",
+      "price": "42000",
+      "description": "The Colorful Geforce RTX 3060 NB Duo 12G V2 LV Graphic Card is powered by the award-winning NVIDIA Turing architecture, bringing superfast all-around performance and graphics to every gamer and creator. It's time to gear up and get superpowers.",
+      "features": [
+        "Model: Geforce RTX 3060 NB Duo 12G V2 LV",
+        "Core Clock: Base:1320Mhz; Boost:1777Mhz",
+        "Memory Clock: 15Gbps",
+        "Memory Interface: 192bit",
+        "Output: 3DP+HDMI"
+      ],
+      "individual_rating": "4.6",
+      "rating": "4.5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/DYVnZKW"
+    },
+    {
+      "id": "26",
+      "product_name": "Dell E2016HV 19.5'' LED Monitor",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": "9000",
+      "description": "Dell E2016HV , Warranty - 3 Years, Display Size (Inch) - 19.5, Type - Wide Screen, Screen Type - LED Monitor, Screen Resolution - 1600x900, Brightness (cd/m2) - 250 Nit, Contrast Ratio (TCR/DCR) - 600:1, Response Time (ms) - 5 ms, TV Card (Built-in) - No.",
+      "features": [
+        "Model: E2016HV",
+        "Resolution: 1600 x 900",
+        "Display: TN, 60Hz, 5ms",
+        "Ports: VGA",
+        "Features: Flicker Free"
+      ],
+      "individual_rating": "5",
+      "rating": "5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/fCnj398"
+    },
+    {
+      "id": "27",
+      "product_name": "ASUS ROG LOKI SFX-L 750W 80 Plus Platinum",
+      "category": "Power Supply",
+      "status": "Out of stock",
+      "price": "24000",
+      "description": "The ASUS ROG LOKI SFX-L 750W 80 Plus Platinum Power Supply is a high-performance power supply designed for Intel Form Factor and ATX 3.0 standards. With dimensions of 125 x 125 x 63.5 mm, it is a compact power supply that fits easily into small-form-factor builds.",
+      "features": [
+        " MPN: ROG-LOKI-750P-SFX-L-GAMING",
+        "Model: ROG LOKI SFX-L 750W",
+        "Intel Form Factor: SFX-L",
+        "Capacity: 750W",
+        "Efficiency: 80Plus Platinum",
+        "AURA SYNC: ARGB"
+      ],
+      "individual_rating": "4.6",
+      "rating": "4.5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/NrH6jhM"
+    },
+    {
+      "id": "28",
+      "product_name": "Apacer Panther Rage 8GB DDR4 RGB 2666MHZ",
+      "category": "RAM",
+      "status": "Out of stock",
+      "price": "",
+      "description": "",
+      "features": [
+        "Model: Panther Rage 8GB DDR4 RGB 2666MHZ",
+        "Capacity: 8GB , RGB lighting effect",
+        "Frequency: 2666MHz, PIN: 288-pin",
+        "Memory Architecture: x8 FBGA DRAM chip",
+        "{Voltage & Cas Latency: 1.2V}"
+      ],
+      "individual_rating": "4",
+      "rating": "4",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/DgWNR5Y"
+    },
+    {
+      "id": "29",
+      "product_name": "Intel 12th Gen Alder Lake Core i5",
+      "category": "Processor",
+      "status": "Out of stock",
+      "price": "18000",
+      "description": "This powerful combo features the Intel 12th Gen Core i5-12400 Alder Lake Processor, GIGABYTE H610M S2H DDR4 12th Gen Micro ATX Motherboard, Kingston FURY Beast 8GB 3200MHz DDR4 Desktop RAM, and 1STPLAYER DK 5.0 PS-500AX 500W 80 PLUS BRONZE Non-Modular ATX Power Supply.",
+      "features": [
+        "Type. - Core i5",
+        "Generation - 12th",
+        "Base Frequency - 2.50GHz",
+        "Turbo Frequency Max. - 4.40GHz",
+        "Core - 6",
+        "CPU Cache - 18MB"
+      ],
+      "individual_rating": "5",
+      "rating": "5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/rGXzczP"
+    },
+    {
+      "id": "30",
+      "product_name": "ZOTAC GAMING GeForce RTX 3050 Solo 8GB GDDR6 Graphics Card",
+      "category": "Graphics Card",
+      "status": "In Stock",
+      "price": "29400",
+      "description": "ZOTAC GAMING GeForce RTX 3050 Solo 8GB Graphics Card brings the power of real-time ray tracing and AI to your PC games. The GPU features 8GB of GDDR6 VRAM, offering improved performance and power efficiency over the previous Turing-based generation.",
+      "features": [
+        "MPN: ZT-A30500G-10L",
+        "Model: GAMING GeForce RTX 3050 Solo",
+        "Engine Clock: Boost: 1777 MHz",
+        "Memory Clock: 14 Gbps",
+        "Memory Bus: 128-bit"
+      ],
+      "individual_rating": "3.6",
+      "rating": "3.5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://ibb.co/BKnBzMB"
+    }
+  ]
+}
