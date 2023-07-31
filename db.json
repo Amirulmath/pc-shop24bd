@@ -1,5 +1,5 @@
 {
-  "pcElements": [
+  "products": [
     {
       "id": "1",
       "product_name": "Asus TUF Gaming B550M-Plus Micro ATX",
@@ -17,7 +17,7 @@
       "individual_rating": "5",
       "rating": "5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/3SQd8kH"
+      "_img": "https://pc-shop24.netlify.app/images/motherboard-1.jpg"
     },
     {
       "id": "2",
@@ -37,7 +37,7 @@
       "individual_rating": "4.5",
       "rating": "4",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/q0SgHGh"
+      "_img": "https://pc-shop24.netlify.app/images/cpu-1.jpg"
     },
     {
       "id": "3",
@@ -56,7 +56,7 @@
       "individual_rating": "5",
       "rating": "5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/121qdfc"
+      "_img": "https://pc-shop24.netlify.app/images/monitor-1.jpg"
     },
     {
       "id": "4",
@@ -76,7 +76,7 @@
       "individual_rating": "5",
       "rating": "5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/JyWFNg3"
+      "_img": "https://pc-shop24.netlify.app/images/ram-1.jpg"
     },
     {
       "id": "5",
@@ -95,7 +95,7 @@
       "individual_rating": "4.3",
       "rating": "4.2",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/4mB4pLK"
+      "_img": "https://pc-shop24.netlify.app/images/power-1.jpg"
     },
     {
       "id": "6",
@@ -114,7 +114,7 @@
       "individual_rating": "4.8",
       "rating": "4.6",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/LJP3pHt"
+      "_img": "https://pc-shop24.netlify.app/images/storage-1.jpg"
     },
     {
       "id": "7",
@@ -133,48 +133,10 @@
       "individual_rating": "4.8",
       "rating": "4.5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/c3Bw440"
+      "_img": "https://pc-shop24.netlify.app/images/gpu-1.jpg"
     },
     {
       "id": "8",
-      "product_name": "AMD Ryzen 7 3700X Processor",
-      "category": "Processor",
-      "status": "Out of stock",
-      "price": "",
-      "description": "The AMD Ryzen 7 3700X processor is built in True machine intelligence featuring 8 processor cores, 16 threads, and an astonishingly efficient 65W TDP. Every Ryzen 7 processor is bundled with a color-controlled illuminated cooler, which is effective for PCs run, sound, and look.",
-      "features": [
-        "Model: Ryzen 7 3700X",
-        "Speed: 3.6GHz up to 4.4GHz",
-        "Cache: L2: 4MB, L3: 32MB",
-        "ores-8 & Threads-16",
-        "Memory Speed: 3200MHz"
-      ],
-      "individual_rating": "5",
-      "rating": "5",
-      "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/9ZK7Srg"
-    },
-    {
-      "id": "9",
-      "product_name": "MSI PRO X670-P WIFI DDR5 AMD AM5 ATX",
-      "category": "Motherboard",
-      "status": "In Stock | Out of stock",
-      "price": "42000",
-      "description": "The MSI PRO X670-P WIFI Motherboard supports AMD's Ryzen 7000-series processors with up to 16 Zen 4 cores as well as dual-channel DDR5 memory, with a Maximum Memory Capacity of up to 128GB. It features a 14+2+1 Duet Rail Power System, dual 8-pin CPU power connectors, Core Boost, and Memory Boost.",
-      "features": [
-        "Model: PRO X670-P WIFI",
-        "Supported CPU: Ryzen 7000",
-        "Supported RAM: 4x DDR5, Max 128GB",
-        "Graphics Output: 1x HDMI",
-        "Features: 2.5G LAN with Wi-Fi"
-      ],
-      "individual_rating": "4.5",
-      "rating": "4.5",
-      "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/zPrcJRm"
-    },
-    {
-      "id": "10",
       "product_name": "PC Power Ice Cube Desktop Gaming Casing",
       "category": "Casing",
       "status": "In Stock",
@@ -190,7 +152,45 @@
       "individual_rating": "5",
       "rating": "5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/2dkLjrj"
+      "_img": "https://pc-shop24.netlify.app/images/casing-1.jpg"
+    },
+    {
+      "id": "9",
+      "product_name": "AMD Ryzen 7 3700X Processor",
+      "category": "Processor",
+      "status": "Out of stock",
+      "price": "",
+      "description": "The AMD Ryzen 7 3700X processor is built in True machine intelligence featuring 8 processor cores, 16 threads, and an astonishingly efficient 65W TDP. Every Ryzen 7 processor is bundled with a color-controlled illuminated cooler, which is effective for PCs run, sound, and look.",
+      "features": [
+        "Model: Ryzen 7 3700X",
+        "Speed: 3.6GHz up to 4.4GHz",
+        "Cache: L2: 4MB, L3: 32MB",
+        "ores-8 & Threads-16",
+        "Memory Speed: 3200MHz"
+      ],
+      "individual_rating": "5",
+      "rating": "5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://pc-shop24.netlify.app/images/cpu-2.jpg"
+    },
+    {
+      "id": "10",
+      "product_name": "MSI PRO X670-P WIFI DDR5 AMD AM5 ATX",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": "42000",
+      "description": "The MSI PRO X670-P WIFI Motherboard supports AMD's Ryzen 7000-series processors with up to 16 Zen 4 cores as well as dual-channel DDR5 memory, with a Maximum Memory Capacity of up to 128GB. It features a 14+2+1 Duet Rail Power System, dual 8-pin CPU power connectors, Core Boost, and Memory Boost.",
+      "features": [
+        "Model: PRO X670-P WIFI",
+        "Supported CPU: Ryzen 7000",
+        "Supported RAM: 4x DDR5, Max 128GB",
+        "Graphics Output: 1x HDMI",
+        "Features: 2.5G LAN with Wi-Fi"
+      ],
+      "individual_rating": "4.5",
+      "rating": "4.5",
+      "reviews": ["Review 1", "Review 2"],
+      "_img": "https://pc-shop24.netlify.app/images/motherboard-2.jpg"
     },
     {
       "id": "11",
@@ -209,7 +209,7 @@
       "individual_rating": "5",
       "rating": "5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/2FP1Gv8"
+      "_img": "https://pc-shop24.netlify.app/images/monitor-2.jpg"
     },
     {
       "id": "12",
@@ -228,7 +228,7 @@
       "individual_rating": "5",
       "rating": "5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/MRtMBQY"
+      "_img": "https://pc-shop24.netlify.app/images/power-2.jpg"
     },
     {
       "id": "13",
@@ -247,7 +247,7 @@
       "individual_rating": "4.3",
       "rating": "4.2",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/qjYpmz8"
+      "_img": "https://pc-shop24.netlify.app/images/ram-2.jpg"
     },
     {
       "id": "14",
@@ -267,7 +267,7 @@
       "individual_rating": "4.2",
       "rating": "4",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/gr5z4PR"
+      "_img": "https://pc-shop24.netlify.app/images/storage-2.jpg"
     },
     {
       "id": "15",
@@ -286,7 +286,7 @@
       "individual_rating": "5",
       "rating": "5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/WWd9rr5"
+      "_img": "https://pc-shop24.netlify.app/images/gpu-2.jpg"
     },
     {
       "id": "16",
@@ -305,7 +305,7 @@
       "individual_rating": "4",
       "rating": "4",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/vH55bKw"
+      "_img": "https://pc-shop24.netlify.app/images/motherboard-3.jpg"
     },
     {
       "id": "17",
@@ -324,7 +324,7 @@
       "individual_rating": "4.3",
       "rating": "4.2",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/VD19Fh9"
+      "_img": "https://pc-shop24.netlify.app/images/monitor-3.jpg"
     },
     {
       "id": "18",
@@ -343,7 +343,7 @@
       "individual_rating": "4.5",
       "rating": "4.3",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/KbC78Cg"
+      "_img": "https://pc-shop24.netlify.app/images/casing-2.jpg"
     },
     {
       "id": "19",
@@ -362,7 +362,7 @@
       "individual_rating": "4.5",
       "rating": "4.5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/M8w1HD0"
+      "_img": "https://pc-shop24.netlify.app/images/cpu-3.jpg"
     },
     {
       "id": "20",
@@ -381,7 +381,7 @@
       "individual_rating": "4.1",
       "rating": "4",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/n8r6DXP"
+      "_img": "https://pc-shop24.netlify.app/images/power-3.jpg"
     },
     {
       "id": "21",
@@ -401,7 +401,7 @@
       "individual_rating": "5",
       "rating": "5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/m5kSbBG"
+      "_img": "https://pc-shop24.netlify.app/images/storage-3.jpg"
     },
     {
       "id": "22",
@@ -420,7 +420,7 @@
       "individual_rating": "3.5",
       "rating": "3.5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/0X8pntn"
+      "_img": "https://pc-shop24.netlify.app/images/ram-3.jpg"
     },
     {
       "id": "23",
@@ -439,7 +439,7 @@
       "individual_rating": "4.2",
       "rating": "4",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/pxSmKgC"
+      "_img": "https://pc-shop24.netlify.app/images/motherboard-4.png"
     },
     {
       "id": "24",
@@ -458,7 +458,7 @@
       "individual_rating": "3.4",
       "rating": "3",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/DQxMrKJ"
+      "_img": "https://pc-shop24.netlify.app/images/casing-3.jpg"
     },
     {
       "id": "25",
@@ -477,7 +477,7 @@
       "individual_rating": "4.6",
       "rating": "4.5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/DYVnZKW"
+      "_img": "https://pc-shop24.netlify.app/images/gpu-3.jpg"
     },
     {
       "id": "26",
@@ -496,7 +496,7 @@
       "individual_rating": "5",
       "rating": "5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/fCnj398"
+      "_img": "https://pc-shop24.netlify.app/images/monitor-4.jpg"
     },
     {
       "id": "27",
@@ -516,7 +516,7 @@
       "individual_rating": "4.6",
       "rating": "4.5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/NrH6jhM"
+      "_img": "https://pc-shop24.netlify.app/images/power-4.jpg"
     },
     {
       "id": "28",
@@ -535,7 +535,7 @@
       "individual_rating": "4",
       "rating": "4",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/DgWNR5Y"
+      "_img": "https://pc-shop24.netlify.app/images/ram-4.jpg"
     },
     {
       "id": "29",
@@ -555,7 +555,7 @@
       "individual_rating": "5",
       "rating": "5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/rGXzczP"
+      "_img": "https://pc-shop24.netlify.app/images/cpu-4.jpg"
     },
     {
       "id": "30",
@@ -574,7 +574,7 @@
       "individual_rating": "3.6",
       "rating": "3.5",
       "reviews": ["Review 1", "Review 2"],
-      "_img": "https://ibb.co/BKnBzMB"
+      "_img": "https://pc-shop24.netlify.app/images/gpu-4.jpg"
     }
   ]
 }
