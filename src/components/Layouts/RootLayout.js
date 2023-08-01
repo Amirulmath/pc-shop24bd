@@ -22,35 +22,35 @@ const RootLayout = ({ children }) => {
   };
   const items = [
     {
-      label: "CPU / Processor",
+      label: <a href="http://localhost:3000/processor">CPU / Processor</a>,
       key: "1",
     },
     {
-      label: "Motherboard",
+      label: <a href="http://localhost:3000/motherboard">Motherboard</a>,
       key: "2",
     },
     {
-      label: "RAM",
+      label: <a href="http://localhost:3000/ram">RAM</a>,
       key: "3",
     },
     {
-      label: "Power Supply",
+      label: <a href="http://localhost:3000/power-supply">Power Supply</a>,
       key: "4",
     },
     {
-      label: "Storage Device",
+      label: <a href="http://localhost:3000/storage">Storage Device</a>,
       key: "5",
     },
     {
-      label: "Monitor",
+      label: <a href="http://localhost:3000/monitor">Monitor</a>,
       key: "6",
     },
     {
-      label: "Graphics Card",
+      label: <a href="http://localhost:3000/gpu">Graphics Card</a>,
       key: "7",
     },
     {
-      label: "Casing",
+      label: <a href="http://localhost:3000/casing">Casing</a>,
       key: "8",
     },
   ];

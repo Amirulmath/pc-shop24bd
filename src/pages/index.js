@@ -5,8 +5,6 @@ import { Button } from "antd";
 const HomePage = ({ allProducts }) => {
   return (
     <div>
-      <p>Home Page</p>
-      <Button type="primary">PC Component</Button>
       <AllProducts allProducts={allProducts} />
     </div>
   );

@@ -1,12 +1,8 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import {
   BorderOuterOutlined,
-  CalendarOutlined,
-  CommentOutlined,
   DesktopOutlined,
   PlusCircleFilled,
-  ProfileOutlined,
-  UserOutlined,
 } from "@ant-design/icons";
 import { Col, Row } from "antd";
 
